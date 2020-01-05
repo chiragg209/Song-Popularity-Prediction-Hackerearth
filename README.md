@@ -1,1 +1,1 @@
-# ZS_challenge_Hackerearth
+# ZS_challenge_Hackereart
